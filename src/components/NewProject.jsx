@@ -17,10 +17,6 @@ const NewProject = () => {
         </li>
       </menu>
 
-      <button>
-        <data value="">hello</data>
-      </button>
-
       <div>
         <Input label="Title" type="text" />
         <Input label="Description" istextarea />
